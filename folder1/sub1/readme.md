@@ -1,5 +1,8 @@
-[🏠 Main](https://github.com/niksirotkin98yndx/test) - [Folder 1](https://github.com/niksirotkin98yndx/test/tree/main/folder1)
+[🏠 Introduction to Java](https://github.com/niksirotkin98yndx/test) > [Basics of software code development](https://github.com/niksirotkin98yndx/test/tree/main/folder1)
 
-# Sub 1
+# Linear programs
 
-Subfolder 1
+Linear programs
+
+Tasks
+  1. [Task 1](https://github.com/niksirotkin98yndx/test/tree/main/folder1/sub1/task1)
