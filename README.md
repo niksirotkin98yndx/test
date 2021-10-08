@@ -12,7 +12,7 @@
 </style>
 <p class="breadcrumbs">EPAM. Introduction to Java. General Programming <i>></i> Basics of software code development <i>></i> Linear programming</p>
 
-##Задача №
+## Задача №
 
 #### Условие задачи
 Description
