@@ -1,4 +1,4 @@
-[root](https://github.com/niksirotkin98yndx)
+[🏠](https://github.com/niksirotkin98yndx)
 
 # Test repo
 
