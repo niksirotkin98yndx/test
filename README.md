@@ -1,4 +1,5 @@
-<style>
+
+<p class="breadcrumbs"><style>
 	p.breadcrumbs{
 		font-family:monospace;
 		font-size: 14px;
@@ -9,8 +10,7 @@
 		font-size: 12px;
 		color: #888888;
 	}
-</style>
-<p class="breadcrumbs">EPAM. Introduction to Java. General Programming <i>></i> Basics of software code development <i>></i> Linear programming</p>
+</style>EPAM. Introduction to Java. General Programming <i>></i> Basics of software code development <i>></i> Linear programming</p>
 
 ## Задача №
 
